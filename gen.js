@@ -12,13 +12,6 @@ console.time("End of gen")
 const imgDir = "./fab-images/"
 
 generateArticles()
-  .then(() => {
-    console.timeEnd("End of gen")
-    console.log()
-  })
-  .catch(e => {
-    throw new Error(e.stack)
-  })
 
 function generateArticles() {
   // Assuming there now exists a pool of images of given dimensions, generate an article and copy
