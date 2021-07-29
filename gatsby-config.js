@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby FS Markdown Benchmark for Gabe`,
+    title: `Project Plugin (test)`,
     description: "A blog like no other blog",
-    author: "Bob the Blogger",
+    author: "Ruairí Douglas",
   },
   plugins: [
     `gatsby-transformer-remark`,

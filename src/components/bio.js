@@ -16,11 +16,11 @@ const Bio = () => {
       }}
     >
       <p>
-        Written by <strong>Bob</strong> who lives and works in Fan
+        Written by <strong>Aisha</strong> who lives and works in Fan
         Srancisco building useful things.
         {` `}
-        <a href={`https://twitter.com/bob`}>
-          You should follow him on Twitter
+        <a href={`https://twitter.com/aishablake`}>
+          You should follow her on Twitter
         </a>
       </p>
     </div>
